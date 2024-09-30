@@ -40,3 +40,8 @@
 .read-the-docs {
   color: #888;
 }
+
+#copyBtn:hover{
+ background-color: green;
+ 
+}
